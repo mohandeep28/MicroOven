@@ -83,7 +83,7 @@ public class App {
                     System.out.println("Enter MicroOven Name: ");
                     name = in.next();
                     System.out.println("Enter MicroOven Email: ");
-                    email = in.next();
+                    email = in.next(); 
                     System.out.println("Enter MicroOven Mobile: ");
                     mobile = in.next();
 
