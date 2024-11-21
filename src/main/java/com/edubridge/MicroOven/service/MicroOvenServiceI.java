@@ -2,7 +2,9 @@ package com.edubridge.MicroOven.service;
 
 import java.util.List;
 
-import com.edubridge.MicroOvenapp.model.MicroOven;
+import com.edubridge.MicroOven.model.MicroOven;
+
+
 
 public interface MicroOvenServiceI {
 	void addContact(MicroOven microOven);

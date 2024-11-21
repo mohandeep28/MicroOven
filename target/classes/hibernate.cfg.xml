@@ -14,7 +14,7 @@
  		<property name="hbm2ddl.auto">update</property>		
 
 		<!--mapping files -->
-		<mapping class="com.edubridge.contactapp.model.MicroOven" />
+		<mapping class="com.edubridge.MicroOven.model.MicroOven" />
 				
 	</session-factory>
 </hibernate-configuration>

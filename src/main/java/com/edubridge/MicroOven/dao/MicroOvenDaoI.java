@@ -4,6 +4,7 @@ import com.edubridge.MicroOven.model.MicroOven;
 import java.util.List;
 
 public interface MicroOvenDaoI {
+	
     void addMicroOven(MicroOven microOven);
     List<MicroOven> getAllMicroOvens();
     MicroOven getMicroOvenById(Integer id);
